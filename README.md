@@ -13,4 +13,4 @@ This repository contains the C++ lab submission (`oop.docx`) for Object-Oriented
 - **Course:** ICT 2106 - Object-Oriented Programming Lab
 - **Language:** C++
 - **File:** `oop.docx`
-- **Author:** Payel Islam
+- **Author:** Md.Payel Islam
